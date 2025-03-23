@@ -83,10 +83,6 @@ Tetrix is developing four core apps, each tailored to a specific productivity do
 
 Together, these apps, powered by Tetrix Context, create an ecosystem where every tool is aware of and reacts to your context.
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to help improve these projects or develop new integrations, please check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on getting started.
-
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
