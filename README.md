@@ -54,8 +54,6 @@ The following open source projects form the backbone of the Tetrix Context infra
 - **[GoogleDriveKit](https://github.com/Noah-Moller/Google-Drive-Kit)**  
   A server and client side package for interacting with the Google Drive API.
 
-*Replace the placeholder links (`#`) with the actual repository URLs as needed.*
-
 ## About Tetrix
 
 Tetrix is on a mission to redefine productivity through an ecosystem where individual applications work independently yet are intelligently connected. The power of **Tetrix Context** lies in its ability to:
