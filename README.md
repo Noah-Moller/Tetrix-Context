@@ -33,25 +33,25 @@ Our open source initiative is a commitment to a future where software works smar
 
 The following open source projects form the backbone of the Tetrix Context infrastructure. Explore these repositories to see how each contributes to our interconnected system:
 
-- **[Json Curation Model](#)**  
+- **[Json Curation Model](https://github.com/Noah-Moller/Json-curation-model)**  
   A model for managing and curating JSON-based data structures.
 
-- **[LinearKit](#)**  
+- **[LinearKit](https://github.com/Noah-Moller/Linear-Kit)**  
   A server and client side package for interacting with the Linear API.
 
-- **[NotionKit](#)**  
+- **[NotionKit](https://github.com/Noah-Moller/Notion-Kit)**  
   A server and client side package for interacting with the Notion API.
 
-- **[SlackKit](#)**  
+- **[SlackKit](https://github.com/Noah-Moller/Slack-Kit)**  
   A server and client side package for interacting with the Slack API.
 
-- **[CanvasKit](#)**  
+- **[CanvasKit](https://github.com/Noah-Moller/Canvas-Kit)**  
   A server and client side package for interacting with the Canvas API.
 
-- **[ObsidianKit](#)**  
+- **[ObsidianKit](https://github.com/Noah-Moller/Obsidian-Kit)**  
   A server and client side package for interacting with Obsidian Vaults.
 
-- **[GoogleDriveKit](#)**  
+- **[GoogleDriveKit](https://github.com/Noah-Moller/Google-Drive-Kit)**  
   A server and client side package for interacting with the Google Drive API.
 
 *Replace the placeholder links (`#`) with the actual repository URLs as needed.*
